@@ -19,4 +19,15 @@ public class practica {
 		// User 3 fer la multiplicació dels elements de prodArray
 	}
 
+			    	
+	        int[] prodArray = {6, 8, 20, 23, 12};
+	        
+	        int resultado = 1; 
+	        
+	        for (int i = 0; i < prodArray.length; i++) {
+	        	
+	            resultado *= prodArray[i];
+
+		   System.out.println("El resultado de los números es: " + resultado);
+
 }
