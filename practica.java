@@ -1,4 +1,4 @@
-package main;
+package RepositorioGit;
 
 public class practica {
 
